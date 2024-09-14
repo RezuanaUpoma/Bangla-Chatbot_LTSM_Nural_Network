@@ -27,4 +27,9 @@ The Bangla chatbot is built using an LSTM-based neural network to handle natural
 
 The custom Bangla dataset consists of conversational pairs to train the chatbot. It includes various topics and responses to provide a broad understanding of the language.
 
+## Presentation Video
+
+Watch the presentation video: [View Video](https://drive.google.com/file/d/1F30fJ11Xd55p5I9ZNF2lCGvcJ1CAktPW/view)
+
+
 
